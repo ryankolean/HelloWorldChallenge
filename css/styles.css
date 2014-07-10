@@ -1,0 +1,29 @@
+body {
+    margin-bottom: 80px
+}
+
+.page-header {
+	margin-top: 0px;
+}
+ 
+.panel-body {
+	padding-top: 0px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.featureImg {
+    margin-left: 10px;
+    margin-bottom: 15px;
+    float: left;
+}
+.welcomeMessage {
+    margin-left: 15px;
+}
+.sendButton {
+    float: right   
+}
+.reportMessage{
+    margin-top: 45px;
+    margin-right: 15px;
+    margin-left: 10px;
+}
